@@ -171,6 +171,26 @@
 
 ---
 
+### 8. 💭 World Model 应用开发工具
+**来源**: World Models 深度学习 (Introl Blog)
+
+**问题**: World Models 正在兴起，但开发工具还很缺乏
+
+**想法**:
+- 创建 World Model 开发 SDK
+- 类似 LangChain 但针对 World Models
+- 集成 Cosmos, Genie, Marble API
+- 简化机器人/自动驾驶训练流程
+
+**难度**: 高
+
+**市场机会**:
+- NVIDIA Cosmos 已有 200万下载
+- 机器人市场快速增长
+- 自动驾驶需要大规模模拟
+
+---
+
 ## 灵感来源追踪
 
 ### 2026-02-14 早上
