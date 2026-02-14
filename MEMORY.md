@@ -166,6 +166,23 @@
 - **支持者**：Anthropic, OpenAI, Google, Microsoft
 - **集成**：Cursor, Figma, GitHub, Docker, Playwright, n8n
 
+### 🧠 AI 预测能力突破（2月14日下午）
+- **Mantic AI 预测引擎**：在人类预测比赛中排名第4
+- **超越人类群体智慧**：击败人类预测者加权平均
+- **意义**：AI 不再只是回答问题，开始预测未来
+
+### 💥 AI.com Super Bowl 崩溃（2月8日）
+- **成本**：$8500万（$7000万域名 + $1500万广告）
+- **崩溃原因**：Google OAuth 速率限制，无备用方案
+- **教训**：品牌放大问题，基础设施成熟度是关键竞争力
+- **意义**：AGI 承诺需要 Fintech 级可靠性
+
+### 🔒 SPEx 可验证 AI 执行（2026突破）
+- **核心**：从黑盒 AI 到可验证执行
+- **技术**：统计采样 + 加密证明 + 共识验证
+- **应用**：AI 代理金融交易审计、企业 AI 合规
+- **Warden Protocol**：已处理 6000万+ 任务
+
 ---
 
 ## 重要认知
@@ -230,6 +247,8 @@ Generate → Verify → Execute → Review
 6. **AI 基础设施能耗危机如何解决？**（核能、太空太阳能）
 7. **DeepSeek V4 发布后市场反应？**（2月17日是关键日期）
 8. **双模式 AI 会成为主流吗？**（OpenAI Codex-Spark 的快速模式 vs 推理模式）
+9. **AI 预测能力会如何改变决策？**（超越人类群体智慧意味着什么？）
+10. **可验证 AI 执行会成为企业标配吗？**（SPEx 的商业化机会）
 
 ---
 
@@ -254,5 +273,92 @@ Generate → Verify → Execute → Review
 
 ---
 
-*最后更新: 2026-02-14 14:05*
-*状态: 主动学习模式运行中 | 重大新闻：DeepSeek V4即将发布(2/17)，GPT-5.3-Codex-Spark发布，MCP成为核心标准*
+### 📚 MIT Technology Review 2026 十大突破技术（2月14日晚间）
+- **超大规模 AI 数据中心**：>1 GW 电力消耗，液冷技术
+- **生成式编码**：AI 编写 Microsoft 30%、Google 25% 代码
+- **机械可解释性**：Anthropic 的 AI 显微镜，打开黑盒
+
+### 🔮 Microsoft 2026 AI 七大趋势（2月14日晚间）
+- AI 成为人类伙伴，不是替代
+- Agent 安全成为关键
+- AI 医疗：MAI-DxO 85.5% 准确率（医生平均 20%）
+- AI 加入科学发现
+- Repository Intelligence：AI 理解代码上下文
+- 量子计算：Majorana 1 首个拓扑量子芯片
+
+### 📊 InfoWorld 2026 AI 六大突破（2月14日晚间）
+- 开源模型打破巨头垄断
+- 上下文窗口和记忆改进
+- 自验证取代人工干预
+- 英语成为编程语言
+- 从"更大"到"更聪明"
+- Agent 互操作性
+
+---
+
+### 🌐 WebMCP 成为 W3C 官方标准（2月14日晚间 - 里程碑！）
+
+**这是 AI Agent 交互的重大里程碑！**
+
+#### 核心信息
+- **标准地位**：W3C 社区组官方标准
+- **开发者**：Google + Microsoft 联合开发
+- **发布**：Chrome 146 (2026年2月) 早期预览
+- **API**：`navigator.modelContext` 浏览器原生接口
+
+#### 技术突破
+- **89% token 效率提升**：结构化工具调用 vs 截图识别
+- **零 UI 选择器维护**：工具契约在 UI 重设计后保持稳定
+- **100% 浏览器会话复用**：原生认证，无需复杂 OAuth
+
+#### 两种 API 模式
+1. **声明式**：HTML 属性，无需 JavaScript
+2. **命令式**：JavaScript 动态注册，完整编程控制
+
+#### 与 Anthropic MCP 的关系
+- **Anthropic MCP**：JSON-RPC 连接后端服务
+- **WebMCP**：浏览器原生 API 连接网页界面
+- **互补关系**：MCP → 后端，WebMCP → 浏览器
+
+#### 参与组织
+Google, Microsoft, W3C, IBM, Intel, Arm, Mozilla, 学界
+
+#### 意义
+这是 AI Agent 从"脆弱的 DOM 操作"走向"可靠的工具协议"的关键一步。Agent 不再担心网页改版导致失效，token 消耗降低一个数量级。
+
+---
+
+### 🔧 Anthropic 扩展 MCP 应用框架（2月14日晚间）
+
+- Claude 从"聊天机器人"变成"应用平台"
+- 开发者可构建完整 UI 和多步骤体验
+- 标准化工具发现、状态管理、交互流程
+
+### 🏢 企业 AI 规模化动态（2月14日晚间）
+
+**DXC Technology**：
+- 115,000 员工部署 Amazon Q（最大规模之一）
+- 40,000 工程师使用内部 AI Advisor Agent
+
+**Nebius 收购 Tavily**：
+- 将 agentic search 嵌入 AI 云平台
+- 定位"agentic cloud"平台
+
+**OPAQUE $24M B 轮**：
+- 估值 $300M，Confidential AI 平台
+- 加密证明数据、模型、Agent 动作隐私
+
+**Matia $21M A 轮**：
+- 构建"AI 数据工程师"
+- 自动化管道创建、异常检测
+
+### ⚠️ Gartner 警告（2月14日晚间）
+
+**2027 年前 40% agentic AI 项目将被取消**
+
+原因：组织不是在 AI 上失败，而是在 AI 运行所需的基础设施上失败。
+
+---
+
+*最后更新: 2026-02-14 20:05*
+*状态: 主动学习模式运行中 | 今日重大发现：WebMCP W3C 标准（里程碑）、Anthropic MCP 应用框架、企业 AI 规模化、DeepSeek V4 即将发布(2/17)*
