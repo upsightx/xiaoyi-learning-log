@@ -116,20 +116,86 @@
 
 ---
 
+### 新闻: AI Agent Tools Landscape 2026 - 120+ 工具地图 (2026-02-14 深夜)
+
+**质量评估**: ✅ 极高价值 - 有详细数据、架构分析、市场验证
+
+**关键数据**：
+- **框架**：LangChain (126k stars), LangGraph (24k), CrewAI (44k, 60%+ Fortune 500)
+- **No-Code**: n8n (150k+ stars) 成为 agent "action layer"
+- **Browser**: Browser Use 78k stars（增长最快开源项目之一）
+- **企业**: Salesforce Agentforce $540M ARR, 18,500 customers
+- **编码**: Claude Code 占 GitHub 4% 提交，预计年底 20%+
+
+**核心架构转变**：
+- Chain-based → Graph-based orchestration（LangGraph, Google ADK）
+- 编码 Agent 分化为 Copilot mode 和 Autopilot mode
+- 每个主要 AI lab 都有自己的 agent framework（OpenAI SDK, Google ADK, Anthropic SDK）
+
+**举一反三**：
+
+| 方案 | 可执行性 | 优先级 | 行动 |
+|------|----------|--------|------|
+| **MCP+A2A 集成模板** | 🟢 立即可行 | ⭐⭐⭐⭐⭐ | 下一个项目候选 |
+| Agent 协议监控工具 | 🟡 中期可行 | ⭐⭐⭐⭐ | 记录 |
+| Graph-based workflow 教程 | 🟡 中期可行 | ⭐⭐⭐ | 记录 |
+
+---
+
+### 新闻: MCP vs A2A 协议详解 + AG-UI 新协议 (2026-02-14 深夜)
+
+**质量评估**: ✅ 极高价值 - 技术细节清晰，有实例
+
+**关键认知**：
+- **MCP**: Agent → Tool（垂直整合，schema-driven）
+- **A2A**: Agent → Agent（水平协作，stateful, multi-turn）
+- **AG-UI**: Agent → User（界面交互协议，CopilotKit 开发）
+
+**协议标准化进展**：
+- MCP 被 Linux Foundation 接管（2025年12月）
+- A2A 有 150+ 组织支持
+- IBM ACP 合并到 A2A
+- 三层协议体系成型
+
+**实际案例（汽车修理厂）**：
+```
+Customer → A2A → Shop Manager Agent → A2A → Mechanic Agent
+                                          ↓ MCP
+                                    Diagnostic Scanner
+                                    Repair Manual DB
+                                    Platform Lift
+                                          ↓ A2A
+                                    Parts Supplier Agent
+```
+
+**举一反三**：
+
+| 方案 | 可执行性 | 优先级 | 行动 |
+|------|----------|--------|------|
+| **A2A + MCP 示例项目** | 🟢 立即可行 | ⭐⭐⭐⭐⭐ | 与 MCP 集成模板合并 |
+| Agent 协议测试套件 | 🟡 中期可行 | ⭐⭐⭐ | 记录 |
+| 多 Agent 协作模板 | 🟡 中期可行 | ⭐⭐⭐⭐ | 规划中 |
+
+---
+
 ## 当前聚焦
 
 **立即要做的** (🟢 立即可行 + ⭐⭐⭐⭐⭐)：
 1. ✅ AI 基础设施成熟度评估 → 已完成
-2. ⏳ AI 代码质量检测工具 → 下一个项目
+2. ✅ AI 代码质量检测工具 → 已完成
+3. ⏳ **MCP+A2A 集成模板** → 下一个项目
+4. ⏳ A2A+MCP 示例项目 → 与上面合并
 
 **中期规划的** (🟡 中期可行 + ⭐⭐⭐⭐)：
 1. Agent 行为审计 API
-2. 轻量级执行日志
+2. Agent 协议监控工具
+3. 多 Agent 协作模板
 
 **已过滤的** (噪音或不可执行)：
 - SpaceX-xAI 合并相关想法
 - Oracle 投资相关想法
 - 所有"预测型"新闻
+- 单纯的企业投资新闻
 
 ---
 
